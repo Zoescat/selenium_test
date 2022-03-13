@@ -1,0 +1,5 @@
+2022-03-05 09:58:22,848-DEBUG-debug message
+2022-03-05 09:58:22,848-INFO-info ,message
+2022-03-05 09:58:22,849-WARNING-warning message
+2022-03-05 09:58:22,849-ERROR-error message
+2022-03-05 09:58:22,849-CRITICAL-critical message
